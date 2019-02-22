@@ -1,0 +1,7 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: no-referrer-when-downgrade
+  X-Content-Type-Options: nosniff
+  Content-Security-Policy: script-src 'self' 'sha256-C3pOQb0GSmHDJXIQFwCQwGJ57n3s4NXD1MzaonCqhdw=' 'sha256-9SFBp/aTeDREPCUlzkR1Ij8cE/88oIc6m/DOCHibhok=' d33wubrfki0l68.cloudfront.net ajax.googleapis.com ssl.google-analytics.com; style-src 'self' 'unsafe-inline' d33wubrfki0l68.cloudfront.net fonts.googleapis.com; img-src 'self' d33wubrfki0l68.cloudfront.net farm7.static.flickr.com ssl.google-analytics.com; font-src 'self' fonts.gstatic.com; upgrade-insecure-requests
+  Feature-Policy: accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'

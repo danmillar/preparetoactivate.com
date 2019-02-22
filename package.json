@@ -1,0 +1,19 @@
+{
+  "name": "preparetoactivate",
+  "version": "1.0.0",
+  "description": "Static site for Activate",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "netlify deploy --site 829b35dd-4360-45b0-823b-872923e0cdef --dir . --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmillar/preparetoactivate.com.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmillar/preparetoactivate.com/issues"
+  },
+  "homepage": "https://github.com/danmillar/preparetoactivate.com#readme"
+}
